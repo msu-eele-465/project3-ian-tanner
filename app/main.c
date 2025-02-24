@@ -3,7 +3,7 @@
 #include <stdbool.h>
 //Global variables
 int rgb_led = 0;
-int led_bar = 4;
+int led_bar = 0;
 int inner_delay = 0;
 int outer_delay = 0;
 int step_0 = 0;
